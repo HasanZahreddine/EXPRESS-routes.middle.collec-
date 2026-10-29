@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "customerId": 101,
+    "status": "completed",
+    "items": [
+      {
+        "menuItemId": 1,
+        "quantity": 2
+      },
+      {
+        "menuItemId": 4,
+        "quantity": 1
+      }
+    ],
+    "createdAt": "2026-10-10T08:15:00.000Z"
+  },
+  {
+    "id": 2,
+    "customerId": 102,
+    "status": "completed",
+    "items": [
+      {
+        "menuItemId": 5,
+        "quantity": 1
+      },
+      {
+        "menuItemId": 7,
+        "quantity": 1
+      }
+    ],
+    "createdAt": "2026-10-11T09:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "customerId": 101,
+    "status": "completed",
+    "items": [
+      {
+        "menuItemId": 2,
+        "quantity": 3
+      },
+      {
+        "menuItemId": 6,
+        "quantity": 2
+      }
+    ],
+    "createdAt": "2026-10-13T07:45:00.000Z"
+  },
+  {
+    "id": 4,
+    "customerId": 1,
+    "status": "pending",
+    "items": [
+      {
+        "menuItemId": 1,
+        "quantity": 2,
+        "priceAtOrder": 1.29
+      }
+    ],
+    "createdAt": "2026-10-19T20:00:49.316Z"
+  }
+]
